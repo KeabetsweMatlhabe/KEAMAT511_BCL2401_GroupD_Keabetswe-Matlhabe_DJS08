@@ -1,7 +1,5 @@
-import React from "react"
-
-export default function Footer() {
+export default function footer () {
     return (
-        <footer>&#169; 2022 #VANLIFE</footer>
+        <footer>2022 copyright</footer>
     )
 }
