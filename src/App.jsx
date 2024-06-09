@@ -1,20 +1,20 @@
 //import React from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./Pages/Home";
-import About from "./Pages/About";
-import Vans from "./Pages/Vans";
-import VanDetail from "./Pages/VanDetail";
-import NotFound from "./Pages/NotFound";
-import Dashboard from './Pages/Host/Dashboard';
-import Income from './Pages/Host/Income';
-import Reviews from './Pages/Host/Reviews';
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Vans from "./pages/Vans";
+import VanDetail from "./pages/VanDetail";
+import NotFound from "./pages/NotFound";
+import Dashboard from './pages/Host/Dashboard';
+import Income from './pages/Host/Income';
+import Reviews from './pages/Host/Reviews';
 import Layout from "./components/Layout";
 import HostLayout from "./components/HostLayout";
-import HostVans from "./Pages/Host/HostVans";
-import HostVanDetail from "./Pages/Host/HostVanDetail";
-import HostVanInfo from "./Pages/Host/HostVanInfo";
-import HostVanPricing from "./Pages/Host/HostVanPricing";
-import HostVanPhotos from "./Pages/Host/HostVanPhotos";
+import HostVans from "./pages/Host/HostVans";
+import HostVanDetail from "./pages/Host/HostVanDetail";
+import HostVanInfo from "./pages/Host/HostVanInfo";
+import HostVanPricing from "./pages/Host/HostVanPricing";
+import HostVanPhotos from "./pages/Host/HostVanPhotos";
 import "./server"
 
 
