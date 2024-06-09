@@ -19,7 +19,7 @@ import Layout from "./components/Layout"
 import HostLayout from "./components/HostLayout"
 import AuthRequired from "./components/AuthRequired"
 
-import "../server"
+import "..server/"
 
 export default function App() {
   return (
